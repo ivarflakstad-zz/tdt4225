@@ -1,0 +1,9 @@
+[package]
+
+name = "io_test"
+version = "0.0.1"
+authors = ["Ivar Flakstad <ivar.flakstad@gmail.com>"]
+
+[dependencies]
+time = "0.1"
+num = "*"
